@@ -16,4 +16,4 @@ Projeto de quiz simples e responsivo em HTML, CSS e JavaScript puro.
 
 - HTML — marcação da aplicação (index.html).
 - CSS — estilos e responsividade (style.css).
-- JavaScript (Vanilla) — lógica do quiz e manipulação do DOM (script.js).
+- JavaScript — lógica do quiz e manipulação do DOM (script.js).
