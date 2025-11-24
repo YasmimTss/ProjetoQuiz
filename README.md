@@ -14,6 +14,6 @@ Projeto de quiz simples e responsivo em HTML, CSS e JavaScript puro.
 
 ## Tecnologias usadas
 
-- HTML5 — marcação da aplicação (index.html).
-- CSS3 — estilos e responsividade (style.css).
+- HTML — marcação da aplicação (index.html).
+- CSS — estilos e responsividade (style.css).
 - JavaScript (Vanilla) — lógica do quiz e manipulação do DOM (script.js).
